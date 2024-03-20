@@ -31,11 +31,13 @@ Contact
 # about
 
 About me
+I am Kiran Songire, a results-oriented Data Science and Analytics professional with experience in the field and 2 years of expertise in finance, technology, and consulting sectors specializing in machine learning, statistical modeling, and data analytics.
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+Armed with a Master's in Business Analytics from Pace University and a Bachelor's in Computer Engineering from the University of Pune, I am proficient in communication skills, assessing impact, root cause analysis, designing data-driven frameworks, and a strong focus on client-centricity. 
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+My journey includes significant contributions at Pace University, where I led BI initiatives, and at Adrosonic, where I managed end-to-end solutions. I am proficient in Python, SQL, and R, I bring a dynamic skill set covering data wrangling, ETL, statistical analysis, and mastery of various BI tools and databases.
 
+As a forward-thinking analyst, I'm dedicated to continuous learning, evident in my academic background and leadership roles. I'm passionate about leveraging data for actionable insights and strategic decision-making in the financial sector. Let's navigate the data-driven future together!
 
 ## service
 
